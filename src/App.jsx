@@ -311,7 +311,7 @@ function App() {
                 <Linkedin className="h-8 w-8 mb-4 text-blue-400" />
                 <h3 className="font-semibold mb-2">LinkedIn</h3>
                 <a 
-                  href="https://linkedin.com/in/nourhan-adel-90b87723" 
+                  href="https://www.linkedin.com/in/nourhan-adel-90b877231/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-gray-300 hover:text-white transition-colors"
